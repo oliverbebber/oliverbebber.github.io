@@ -1,11 +1,11 @@
 # Site settings
 author: Oliver Bebber
-title: 
+title: From Retail to Full Stack Developer
 header-img: img/home-bg.png
 email: ogbebber@gmail.com
 copyright_name: Oliver Bebber
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Chasing my Dreams
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  oliverbebber
